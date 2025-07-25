@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 30
-
+    namespace 'com.ero.gl_canvas'
     defaultConfig {
         minSdkVersion 16
     }
